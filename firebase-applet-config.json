@@ -1,10 +1,11 @@
 {
-  "apiKey": "REPLACE_WITH_FIREBASE_API_KEY",
-  "authDomain": "REPLACE_WITH_FIREBASE_AUTH_DOMAIN",
-  "projectId": "REPLACE_WITH_FIREBASE_PROJECT_ID",
-  "storageBucket": "REPLACE_WITH_FIREBASE_STORAGE_BUCKET",
-  "messagingSenderId": "REPLACE_WITH_FIREBASE_MESSAGING_SENDER_ID",
-  "appId": "REPLACE_WITH_FIREBASE_APP_ID",
-  "measurementId": "REPLACE_WITH_FIREBASE_MEASUREMENT_ID",
-  "firestoreDatabaseId": "(default)"
+  "projectId": "gen-lang-client-0019614066",
+  "appId": "1:334621178031:web:f74672351cce66599ebc5a",
+  "apiKey": "AIzaSyBbDQcem8FIlJEGNTcZLuB2s1TxtsrKzQ8",
+  "authDomain": "gen-lang-client-0019614066.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-nativedrop-b68bc39d-3041-49b3-bb4d-888ae0acd8e7",
+  "storageBucket": "gen-lang-client-0019614066.firebasestorage.app",
+  "messagingSenderId": "334621178031",
+  "measurementId": "",
+  "oAuthClientId": "334621178031-ks4ejeh2tpi49eu2cv6i1scrj32lj14b.apps.googleusercontent.com"
 }
